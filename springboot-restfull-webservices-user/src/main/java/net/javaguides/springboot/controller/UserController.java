@@ -22,7 +22,7 @@ import org.springframework.http.ResponseEntity;
 @RestController
 @AllArgsConstructor
 @RequestMapping("api/users")
-public class UserController 
+public class eUserController
 {
 	private UserService userService;
 	
